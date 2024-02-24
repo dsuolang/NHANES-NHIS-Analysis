@@ -1,4 +1,4 @@
-# 7/11/21 change color
+
 plot.fd.new <- function (x, y, Lfdobj = 0, href = TRUE, titles = NULL, xlim = NULL, 
           ylim = NULL, xlab = NULL, ylab = NULL, ask = FALSE, nx = NULL, 
           axes = NULL, family = NULL, ...) {
